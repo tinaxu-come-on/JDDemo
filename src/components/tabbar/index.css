@@ -1,0 +1,24 @@
+.iconfont {
+    font-size: 22px !important;
+}
+.tabbar-container{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 25px;
+    color: #60626D;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 hsla(0,6%,58%,.6);
+}
+.tabbar-item{
+flex: 1;
+}
+.active{
+    color:#F23030 !important;
+}
+.content{
+    width: 100%;
+    margin-bottom: 50px;
+}

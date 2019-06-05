@@ -1,0 +1,27 @@
+.login-wrapper{
+    background: #fff;
+    padding: 0 1rem 1rem;
+}
+.login-title{
+    height: 44px;
+    line-height: 44px;
+}
+.back-icon{
+    float: left;
+}
+.login-form{
+    margin-top: 10px;
+}
+.login-button{
+    border-radius: 5rem;
+}
+.login-form-button{
+    color: #fff;
+    background-image:  linear-gradient(90deg,#fab3b3,#ffbcb3 73%,#ffcaba);
+}
+.login-form-onestep{
+    box-sizing: border-box;
+    border: 1px solid #ff2000;
+    color: #f10000;
+    background: #fff;
+}
