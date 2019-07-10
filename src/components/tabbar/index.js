@@ -6,22 +6,22 @@ const imgs = [
     {
         name:'icon-home',
         text:'首页',
-        link:'/home'
+        link:'/jd/home'
     },
     {
         name:'icon-category',
         text:'分类',
-        link:'/category'
+        link:'/jd/category'
     },
     {
         name:'icon-shop',
         text:'购物车',
-        link:'/car'
+        link:'/jd/car'
     },
     {
         name:'icon-user',
         text:'用户',
-        link:'user'
+        link:'/jd/user'
     }
 ]
 

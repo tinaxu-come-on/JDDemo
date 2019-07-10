@@ -8,7 +8,7 @@ class Login extends Component {
         const { getFieldDecorator } = this.props.form;
         return (
             <div className ="login-wrapper">
-                <div className ="login-title"><Link to ='/home' className="back-icon"> <Icon type="left" /></Link> 京东登录</div>
+                <div className ="login-title"><Link to ='/jd/home' className="back-icon"> <Icon type="left" /></Link> 京东登录</div>
                  <Form onSubmit={this.handleSubmit} className="login-form">
         <Form.Item hasFeedback>  
         {/* hasFeedback：用于给输入框添加反馈图标。 输入合法，显示一个绿色的 √ */}

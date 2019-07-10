@@ -110,7 +110,7 @@ class Home extends Component {
                             />
                         </Col>
                         <Col span={3}>
-                            <Link to="/login" className="login">
+                            <Link to="/jd/login" className="login">
                                 {" "}
                                 登录
                             </Link>
