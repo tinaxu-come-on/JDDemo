@@ -2,6 +2,8 @@
 # 使用react  ant design 模仿jd 写了一个app 
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0710/103423_1d69561f_2307585.png "jd home.png")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0716/170358_e36c9df6_2307585.gif "20190716-170220_capture.gif")
 开发
 # 克隆项目
 git clone https://gitee.com/tina715/jd.git
