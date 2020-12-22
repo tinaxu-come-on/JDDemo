@@ -1,5 +1,6 @@
 
-# 使用react  ant design 模仿jd 写了一个app 
+# 使用react  ant design 模仿jd 写了一个app ，对于初学react 很有帮助，喜欢的就可以fork 下，☺
+# 建议使用gitee上面的代码，github 可能上传的代码不完整 
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0710/103423_1d69561f_2307585.png "jd home.png")
 
